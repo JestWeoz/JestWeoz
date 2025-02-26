@@ -37,6 +37,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="48" height="48"/> 
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="48" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="intellij" width="48" height="48"/>
 </p>
 
 ## Activities:
