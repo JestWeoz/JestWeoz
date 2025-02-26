@@ -7,12 +7,9 @@
   <h3 align="center">A web developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm a software developer at [Utop @ FPT](https://utop.io/).
+> ✍ I'm a software developer.
 
 <br />
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
 
 ## 📫 How to reach me:
 
@@ -55,7 +52,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
