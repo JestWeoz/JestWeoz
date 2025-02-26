@@ -30,16 +30,13 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://spring.io/projects/spring-boot"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-  <img src = "https://img.icons8.com/?size=100&id=rihhhJIuk3Ve&format=png&color=000000"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="48" height="48"/> 
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="48" height="48"/> 
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="48" height="48"/> 
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="48" height="48"/> 
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="48" height="48"/> 
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="48" height="48"/> 
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="48" height="48"/>
 </p>
 
 ## Activities:
