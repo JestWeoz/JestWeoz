@@ -12,7 +12,7 @@
 ## 📫 Connect
 <div align="center" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-nguy%E1%BB%85n-qu%E1%BB%91c-91069031b/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" target="_blank" />
   </a>
   <a href="https://www.facebook.com/nguyen.quoc.tuan.281542/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" />
