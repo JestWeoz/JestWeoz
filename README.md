@@ -27,6 +27,7 @@
 
 ---
 
+
 <!-- Skills -->
 ## 🛠 Skills
 <div align="center" style="background: #f5f6fa; padding: 15px; border-radius: 10px; max-width: 600px; margin: 20px auto;">
@@ -37,7 +38,9 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50" style="margin: 8px;" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="50" height="50" style="margin: 8px;" />
   <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="IntelliJ" width="50" height="50" style="margin: 8px;" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50" style="margin: 8px;" />
 </div>
+
 
 ---
 
